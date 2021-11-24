@@ -1,7 +1,7 @@
 - 👋 Hello There, I’m @CoderAnurag007
 - 👀 I’m interested in Web developement , Artificial Intelligence and many more.
 - 🌱 I’m currently learning c++ , React , DSA , python
-- 💞️ I’m looking to collaborate on Open Source  Projects in order to furnish myself.
+- 💞️ I’m looking to collaborate on Open Source  Projects and with Other programs in order to furnish myself.
 - 📫 Reach me with mail anuragsinghg999@gmail.com and @its__anurag_singh_ on Instagram
 
 <!---
