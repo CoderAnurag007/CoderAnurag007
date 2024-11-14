@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web developement , Artificial Intelligence and many more.
 - 🌱 I’m Skilled in C++ , React , DSA , python
 - 💞️ I’m looking to collaborate on Open Source  Projects and with Other programs in order to furnish myself.
-- 📫 Reach me with mail anuragsinghg999@gmail.com and @its__anurag_singh_ on Instagram
+
 
 <!---
 CoderAnurag007/CoderAnurag007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
